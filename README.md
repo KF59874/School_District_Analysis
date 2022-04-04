@@ -1,7 +1,9 @@
 # School_District_Analysis
 
 ## Overview
-This analysis has been conducted to analyse schools within a school district and to gather information on how each school performed in Math and Reading. The schools have been compared based on capita per student (spending per student), school size (small, medium, large) and the type of school (Charter or District). Marks have been collected using Standardized Testing across high-schools. These test grades have been used to draw conclusions. 
+This analysis has been conducted to analyse schools within a school district based on how each school performed in Math and Reading. The data has been collected by conducting standardized testing across all grades at all schools within the district. 
+
+The schools have been compared based on capita per student (spending per student), school size (small, medium, large) and the type of school (Charter or District). The test grades from the standardized testing have been used to draw conclusions. 
 
 Due to potential dishonesty during the Standardized Testing at *Thomas High School*, the analysis had to be performed a second time around, at which point the test results for grade 9 students at *Thomas High School* has been omitted to create more accurate results.  
 
