@@ -1,15 +1,20 @@
 # School_District_Analysis
 
 ## Overview
-This analysis has been conducted to analyse schools within a school district based on how each school performed in Math and Reading. The data has been collected by conducting standardized testing across all grades at all schools within the district. 
+This analysis has been conducted to see how different schools within a school district perform based on their students' results in standardized testing in Math and Reading. The results have been gathered using the marks in standardized testing. 
 
-The schools have been compared based on capita per student (spending per student), school size (small, medium, large) and the type of school (Charter or District). The test grades from the standardized testing have been used to draw conclusions. 
+The schools have then been compared based on capita per student (spending per student), school size (small, medium, large) and the type of school (Charter or District). 
 
-Due to potential dishonesty during the Standardized Testing at *Thomas High School*, the analysis had to be performed a second time around, at which point the test results for grade 9 students at *Thomas High School* has been omitted to create more accurate results.  
+Due to potential dishonesty during the standardized testing at *Thomas High School*, the analysis had to be performed a second time around, at which point the test results for grade 9 students at *Thomas High School* have been omitted to create more accurate results.  
 
 ## Results
 
 ### How is the district summary affected?
+Due to potential dishonesty during the standardized testing at *Thomas High School*, the analysis was conducted twice. The second time, the data for all grade 9 students at *Thomas High School* was replaced and omitted from the calculations of the analysis. 
+
+The district results have changed due to omitting the data values. See below 
+
+
 ### How is the school summary affected?
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### How does replacing the ninth-grade scores affect the following:
