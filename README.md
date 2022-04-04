@@ -12,11 +12,7 @@ Due to potential dishonesty during the standardized testing at *Thomas High Scho
 ### How is the district summary affected?
 Due to potential dishonesty during the standardized testing at *Thomas High School*, the analysis was conducted twice. The second time, the data for all grade 9 students at *Thomas High School* was replaced by **NaN** and omitted from the calculations of the analysis. 
 
-The district results have changed due to omitting the data values. See below the results prior to removing the data for grade 9 students at *Thomas High School*:
-
-![District Data prior to Dishonesty](images/district_results_prior.PNG)
-
-The district results vary after the grade 9 data has been removed. Please see below:
+The district results have changed due to omitting the data values. See below the results after removing the data for grade 9 students at *Thomas High School*:
 
 ![District Data updated](images/district_results_updated.PNG)
 
