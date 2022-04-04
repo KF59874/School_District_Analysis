@@ -14,7 +14,7 @@ Due to potential dishonesty during the standardized testing at *Thomas High Scho
 
 The district results have changed due to omitting the data values. See below the results prior to removing the data for grade 9 students at *Thomas High School*:
 
-![District Data prior to Dishonesty](images/District Results (prior))
+![District Data prior to Dishonesty](images/district_results_prior)
 
 
 
