@@ -26,8 +26,9 @@ School Summary after NaN Replacement
 
 By replacing the ninth graders' math and reading scores with NaN, the overall passing percentage for Thomas High School increased to 90.63% making Thomas High School one of the Top 5 high schools in the district. 
 
+
 ## Summary
 
 It is not possible to distinguish which student out of the grade 9 data set for *Thomas High School* committed the dishonesty. It was therefore necessary to remove the entire data for all grade 9s. This however make the data set not as accurate as now all grade 9 students' results from *Thomas High School* have been removed.
 
-By replacing the ninth graders' scores with NaN, Thomas High School's was able to regain the second highest place for all high schools in the district. 
+By replacing the ninth graders' scores with NaN, Thomas High School's was able to regain the second highest place for all high schools in the district.
