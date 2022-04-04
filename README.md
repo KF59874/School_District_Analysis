@@ -14,11 +14,11 @@ Due to potential dishonesty during the standardized testing at *Thomas High Scho
 
 The district results have changed due to omitting the data values. See below the results prior to removing the data for grade 9 students at *Thomas High School*:
 
-![District Data prior to Dishonesty](/images/district_results_prior)
+![District Data prior to Dishonesty](district_results_prior.PNG)
 
 The district results vary after the grade 9 data has been removed. Please see below:
 
-![District Data updated](/images/district_results_updated)
+![District Data updated](images/district_results_updated.png)
 
 ### How is the school summary affected?
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
