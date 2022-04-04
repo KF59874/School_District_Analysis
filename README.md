@@ -16,7 +16,9 @@ The district results have changed due to omitting the data values. See below the
 
 ![District Data prior to Dishonesty](images/district_results_prior)
 
+The district results vary after the grade 9 data has been removed. Please see below:
 
+![District Data updated](images/district_results_updated)
 
 ### How is the school summary affected?
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
