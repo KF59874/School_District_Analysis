@@ -27,22 +27,19 @@ School Summary prior to NaN Replacement
 
 School Summary after NaN Replacement
 ![District Data School Summary](images/results_per_school_updated.PNG)
-Replacing the ninth graders' math and reading scores with NaN resulted in the following changes for Thomas High School:
 
-The overall passing percentage for Thomas High School increased to 90.63% from 
-The overall passing percentage for the entire district increased to 
+By replacing the ninth graders' math and reading scores with NaN, the overall passing percentage for Thomas High School increased to 90.63% making Thomas High School one of the Top 5 high schools in the district. 
 
-When the ninth graders' of Thomas High School had their scores omitted from the calculations, the following changes occured:
-
-The overall passing percentages of Thomas High School decreased by 0.11%
-The average scores of Thomas High School for math and reading increased by 0.06
-For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
-School rankings are unchanged. Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
-
-### How does replacing the ninth-grade scores affect the following:
+### Replacing the ninth-grade scores affected the following:
 #### Math and reading scores by grade
-#### Scores by school spending
-#### Scores by school size
-#### Scores by school type
+Math grades are as follows:
+![District Data School Summary](images/updated_math_grades.PNG)
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+Reading grades are as follows:
+![District Data School Summary](images/updated_reading_grades.PNG)
+
+## Summary
+
+It is not possible to distinguish which student out of the grade 9 data set for *Thomas High School* committed the dishonesty. It was therefore necessary to remove the entire data for all grade 9s. This however make the data set not as accurate as now all grade 9 students' results from *Thomas High School* have been removed.
+
+By replacing the ninth graders' scores with NaN, Thomas High School's was able to regain the second highest place for all high schools in the district. 
